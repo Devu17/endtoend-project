@@ -1,4 +1,4 @@
-describe('Promise Demo',()=> { 
+describe('Promise SmartBear Demo',()=> { 
 	it('Sample', () => { 
 		browser.waitForAngularEnabled(false);
 		browser.get('http://secure.smartbearsoftware.com/samples/testcomplete11/WebOrders/login.aspx');
